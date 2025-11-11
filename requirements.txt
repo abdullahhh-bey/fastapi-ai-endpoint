@@ -1,5 +1,8 @@
 fastapi
 uvicorn
 pydantic
-google-generativeai
-python-jose[cryptography]
+
+#depreciated
+google-generativeai==0.8.5
+
+python-jose[cryptography]==3.5.0
